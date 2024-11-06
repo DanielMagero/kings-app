@@ -12,6 +12,10 @@ function Home() {
 
       <Title Heading="Tiger" />
       <Body details="Levels of leadership" word="Tigress" />
+      <br />
+
+      <Title Heading="Panther" />
+      <Body details="Levels of leadership" word="Pantheress" />
     </div>
   );
 }
