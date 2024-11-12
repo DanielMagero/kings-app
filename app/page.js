@@ -1,5 +1,6 @@
 import Title from "./components/Title";
 import Body from "./components/Body";
+import Link from "next/link";
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
         <Title Heading="Panther" />
         <Body details="Levels of leadership" word="Pantheress" />
       </span>
+      <Link href="./components/Dashboard">Dashboard</Link>
     </div>
   );
 }
