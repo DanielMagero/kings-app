@@ -21,7 +21,7 @@ function Home() {
         <Title Heading="Panther" />
         <Body details="Levels of leadership" word="Pantheress" />
       </span>
-      <Link href="./components/Dashboard">Dashboard</Link>
+      <Link href="/components/Dashboard">Dashboard</Link>
     </div>
   );
 }
